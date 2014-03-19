@@ -1,0 +1,44 @@
+{
+  "banphrases": {
+    "#anon7654321234": {},
+    "#k4yleigh": {
+      "match": []
+    },
+    "#nl_kripp": {
+      "match": [
+        "ᴇ",
+        "ᴀ",
+        "ɪ",
+        "ᴏ",
+        "ᴜ",
+        "ʏ",
+        "Ｅ",
+        "Ａ",
+        "Ｕ",
+        "Ｉ",
+        "Ｏ",
+        "Ｙ",
+        "ｅ",
+        "ｉ",
+        "ｕ",
+        "ｏ",
+        "ｙ",
+        "ᵉ",
+        "ᵒ",
+        "ᵃ"
+      ],
+      "fuzzy": [
+        "ヽ༼ຈل͜ຈ༽ﾉ OJ poured and candle lit, with this chant i summon Kripp ヽ༼ຈل͜ຈ༽ﾉ"
+      ],
+      "regex": [
+        "opopopopop"
+      ]
+    },
+    "#anon7654321": {
+      "match": [],
+      "fuzzy": [
+        "testestestestest"
+      ]
+    }
+  }
+}
